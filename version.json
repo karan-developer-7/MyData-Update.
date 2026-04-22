@@ -1,5 +1,6 @@
 {
-  "latest_version": 2,
-  "url": "https://www.mediafire.com/file/ylqc4du8e5l2i1o/MyData.signed.apk/file",
-  "updateMessage": "Naya update aa gaya hai! Excel report ab aur bhi badhiya hai."
+  "versionCode": 2,
+  "updateUrl": "https://www.mediafire.com/file/ylqc4du8e5l2i1o/MyData.signed.apk/file",
+  "updateMessage": "Naya update aa gaya hai!."
 }
+
